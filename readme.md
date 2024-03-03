@@ -1,0 +1,1 @@
+The Online Auction Platform facilitates buying and selling goods through online auctions, allowing users to bid on items, set auction parameters, and track auction progress in real-time.

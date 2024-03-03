@@ -1,0 +1,26 @@
+{
+"name": "sjf-2094mbn",
+"version": "1.0.0",
+"description": "The Online Auction Platform facilitates buying and selling goods through online auctions, allowing users to bid on items, set auction parameters, and track auction progress in real-time.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/oniaj3694ik/Online-Auction-Platform.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "oniaj3694ik",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
